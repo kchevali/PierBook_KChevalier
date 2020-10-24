@@ -1,0 +1,14 @@
+Hi All,
+
+I am grateful to all of you for volunteering to "play test" the programming assignment questions I am writing
+for my C++ text. I promised you the first batch of questions by next week, so here they are!
+
+I attached chapters 1-3 of the book. The programming exercises are at the end of each chapter, except for
+chapter 1, which is just a background introduction. There are four for each chapter. I would generally assign one of these a week. Many of the questions are organized into series, where each week you go a little deeper into a problem. My intent is for these problems to be interesting, and challenging, but doable, so I am particularly interested in feedback on how I need to clarify, break down into steps, or descope problems to keep them doable.
+
+So have at them! If you have the time, I would really appreciate it if you could actually do the assignments,
+but if you don't, then I'll take any feedback you might give from just reading them over. If you can't get to all of them, try picking random ones, so that you don't all do the same ones.
+
+I can't thank you enough!
+
+-ED
