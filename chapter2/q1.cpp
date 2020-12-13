@@ -7,6 +7,7 @@ int main() {
   printf("long:  %lu\n", sizeof(long));
 }
 /*
+Question
 Write a C++ program that determine show many bytes are used
 to store char, short, int, and long variables on your
 operating system. Compare with your classmates. Did they
